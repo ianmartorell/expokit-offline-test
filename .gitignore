@@ -1,3 +1,13 @@
-node_modules/**/*
-.expo/*
+node_modules
+.expo
 npm-debug.*
+
+# Android Studio
+**/.idea
+*.iml
+.gradle
+/android/app/build
+/android/build
+/android/captures
+/android/local.properties
+*.apk
