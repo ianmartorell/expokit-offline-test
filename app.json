@@ -21,7 +21,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "cat.ian.offline"
+    },
+    "android": {
+      "package": "cat.ian.offline"
     }
   }
 }
