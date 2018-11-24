@@ -13,5 +13,8 @@
     "expokit": "1.7.1",
     "react": "16.3.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz"
+  },
+  "devDependencies": {
+    "expo-cli": "^2.4.0"
   }
 }
