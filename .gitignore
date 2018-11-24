@@ -6,7 +6,6 @@ npm-debug.*
 **/.idea
 *.iml
 .gradle
-/android/keys
 /android/app/build
 /android/build
 /android/captures
